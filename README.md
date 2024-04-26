@@ -1,5 +1,6 @@
 
-Hi, I am currently taking a degree in Computer Science at University of Porto 💻
+## About me
+Hi, my name is Marta and I am currently taking a degree in Computer Science at University of Porto 💻
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=martapereira0&show_icons=false&count_private=true&hide_border=true&title_color=ff69b4&text_color=495057&bg_color=dcdcdc" alt="Marta Pereira github stats"/>
@@ -7,6 +8,8 @@ Hi, I am currently taking a degree in Computer Science at University of Porto �
  <div>
   <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martapereira0&layout=compact&hide_border=true&title_color=ff69b4&text_color=495057&bg_color=dcdcdc"/>
 </div>
+
+### Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
