@@ -1,6 +1,6 @@
 
 ## About me
-Hi, my name is Marta and I am currently taking a degree in Computer Science at University of Porto 💻
+Hi, my name is Marta and I am currently persuing a Master's degree in Artificial Intelligence at Faculty of Engineering, University of Porto 💻
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=martapereira0&show_icons=false&count_private=true&hide_border=true&title_color=ff69b4&text_color=495057&bg_color=dcdcdc" alt="Marta Pereira github stats"/>
